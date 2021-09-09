@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * _strncpy - coppy strings
- * @dest: a string to coppy
- * @src: a string to coppy
+ * @dest: a string to copy
+ * @src: a string to copy
  * @n: a number of string
  * Return: Always a (Success)
  */
