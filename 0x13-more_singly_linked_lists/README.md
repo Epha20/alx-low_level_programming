@@ -1,0 +1,1 @@
+This repo conatins concepts about more_singly_linked_lists
