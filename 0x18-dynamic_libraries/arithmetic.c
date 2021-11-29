@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "art.h"
 
+ 	
 int add(int a, int b)
 {
 	int nadd = a+b;
